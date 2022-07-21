@@ -1,7 +1,7 @@
 # TST-Trie
 Simple project realized during the discipline Algorithms and Data Structures
 
-This project implements all basic operations from a Ternary Search Trie.
+This project implements all basic operations from a Ternary Search Tree.
 
 If you want to learn more about how this type of binary tree works you can check a very good explanation from the website GeeksforGeeks [here](https://www.geeksforgeeks.org/ternary-search-tree/).
 
@@ -13,5 +13,3 @@ If you want to learn more about how this type of binary tree works you can check
 >2. The equal pointer points to the node whose value is equal to the value in the current node. 
 >3. The right pointer points to the node whose value is greater than the value in the current node.
 >Apart from above three pointers, each node has a field to indicate data(character in case of dictionary) and another field to mark end of a string.
-
-The explanation above was based from [here](https://www.geeksforgeeks.org/ternary-search-tree/).
